@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using Zadanie1;
 using Zadanie2;
 using Zadanie3;
+using Zadanie4;
 
 namespace IS_2_20_RybalevKA_U
 {
@@ -36,6 +37,12 @@ namespace IS_2_20_RybalevKA_U
         {
             Form3 form3 = new Form3();
             form3.ShowDialog();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Form4 form4 = new Form4();
+            form4.ShowDialog();
         }
     }
     
