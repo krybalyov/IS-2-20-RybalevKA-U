@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Zadanie1;
+using Zadanie2;
 
 namespace IS_2_20_RybalevKA_U
 {
@@ -24,6 +25,11 @@ namespace IS_2_20_RybalevKA_U
             form1.ShowDialog();
         }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form2 form2 = new Form2();
+            form2.ShowDialog();
+        }
     }
     
 
