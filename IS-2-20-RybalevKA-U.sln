@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie4", "Zadanie4\Zadani
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectTODBClassLib", "ConnectTODBClassLib\ConnectTODBClassLib.csproj", "{791E6094-5547-49C3-A89E-FE3830182816}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie5", "Zadanie5\Zadanie5.csproj", "{367C3F13-0B8E-4864-B6A2-3EF6E24A78F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{791E6094-5547-49C3-A89E-FE3830182816}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{791E6094-5547-49C3-A89E-FE3830182816}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{791E6094-5547-49C3-A89E-FE3830182816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{367C3F13-0B8E-4864-B6A2-3EF6E24A78F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{367C3F13-0B8E-4864-B6A2-3EF6E24A78F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{367C3F13-0B8E-4864-B6A2-3EF6E24A78F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{367C3F13-0B8E-4864-B6A2-3EF6E24A78F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
